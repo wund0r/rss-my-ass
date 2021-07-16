@@ -67,7 +67,7 @@ class YouTube(FeedSource):
                     return self.create_rss_link(content_id=content_id)
 
     def create_rss_link(self, content_id: str) -> str:
-        return f"Enjoy\nhttps://www.youtube.com/feeds/videos.xml?{self.id_type}_id={content_id}"
+        return f"Enjoy your YouTube {self.id_type} RSS:\nhttps://www.youtube.com/feeds/videos.xml?{self.id_type}_id={content_id}"
 
 
 def help_command(update: Update, context: CallbackContext) -> None:
