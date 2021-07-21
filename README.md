@@ -2,7 +2,7 @@
 
 [@rss_my_ass_bot](http://t.me/rss_my_ass_bot)
 
-This Telegram bot is able to generate RSS feeds for YouTube and beyond (with the power of [rss-bridge](https://github.com/RSS-Bridge/rss-bridge)). Send `/help` to see what it can do.
+This Telegram bot is able to generate RSS feeds for YouTube and beyond (with the power of [rss-bridge](https://github.com/RSS-Bridge/rss-bridge)). Send `/help` to bot or check out [release page](https://github.com/wunderwaffla/rss-my-ass/releases) to see what it can do.
 
 ## Self hosting
 
@@ -29,7 +29,7 @@ I'll provide [Dockerfile](Dockerfile) just in case or you can use prebuilt image
 
 You can help me to pay electric bill if you're not feeling like hosting it yourself
 
-<a href="https://www.buymeacoffee.com/wunderwaffla" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
+<a href="https://www.buymeacoffee.com/wunderwaffla"><img src="https://img.buymeacoffee.com/button-api/?text=/help&emoji=&slug=wunderwaffla&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a>
 
 ---
 

@@ -139,7 +139,9 @@ class YouTube(FeedSource):
 def help_command(update: Update, context: CallbackContext) -> None:
     update.message.reply_text(sanitize_markdown_string(
         """I can generate RSS feeds with the help of [rss-bridge](https://github.com/RSS-Bridge/rss-bridge)
-Now I'm able to generate feeds for Youtube and Instagram
+Now I'm able to generate feeds for
+- YouTube: channels and playlists
+- Instagram: profiles and hashtags
 *I am not a feed reader!* I only generate RSS feed that you can use with another Telegram bot or your reader of choice
 Thanks for using. You can see bot source code on [github](https://github.com/wunderwaffla/rss-my-ass)"""), parse_mode='MarkdownV2')
 
